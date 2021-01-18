@@ -1,0 +1,55 @@
+body{
+    font-size: 18px;
+    background-color: rgb(230, 229, 228);
+}
+
+/*start login form*/
+.login{
+    width: 270px;
+    margin: 141px auto;
+}
+.login h3{
+    color: rgb(180, 129, 129);
+    
+}
+.login input{
+    margin-bottom: 10px;
+} 
+/*end login form*/
+
+
+/*start navbar edits*/
+.navbar{
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-nav > li > a,
+.navbar-brand{
+    padding: 15px 16px;
+}
+
+.navbar-inverse .navbar-nav >li > a:focus,
+.navbar-inverse .navbar-nav >li > a:hover,
+.dropdown-menu{
+    background-color: #3498db;
+}
+.dropdown-menu{
+    min-width: 200px;
+    padding: 0px;
+    font-size: 16px;
+
+}
+
+.dropdown-menu > li >a{
+    padding: 8px 20px;
+    color: #fbf9f9;
+}
+
+/*end  navbar edits*/
+
+h2{
+    font-size: 64px;
+    margin: 41px;
+    font-weight: 700;
+    color: #8e8a87;
+}
